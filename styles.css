@@ -1,0 +1,44 @@
+/* CSS by Geoffrey Woytt */
+
+/* Color Palette
+
+Theme extracted from
+Clarimol — AI-Driven Drug Discovery Platform
+
+By: Fulcrum Rocks Studio
+https://www.behance.net/fulcrumrocks1
+
+https://color.adobe.com/trends/Ui/ux
+
+baby blue: #22B7F2
+lime green: #ADD94E
+yellow: #F2E307
+gold: #F2CB05
+light gray: #F2EBDC
+*/
+
+/* Color Theme Swatches in Hex */
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-1-hex { color: #22B7F2; }
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-2-hex { color: #ADD94E; }
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-3-hex { color: #F2E307; }
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-4-hex { color: #F2CB05; }
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-5-hex { color: #F2EBDC; }
+
+/* Color Theme Swatches in RGBA */
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-1-rgba { color: rgba(33, 183, 242, 1); }
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-2-rgba { color: rgba(172, 216, 78, 1); }
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-3-rgba { color: rgba(242, 226, 7, 1); }
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-4-rgba { color: rgba(242, 202, 4, 1); }
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-5-rgba { color: rgba(242, 234, 220, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-1-hsla { color: hsla(196, 89, 54, 1); }
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-2-hsla { color: hsla(78, 64, 57, 1); }
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-3-hsla { color: hsla(56, 94, 48, 1); }
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-4-hsla { color: hsla(50, 96, 48, 1); }
+.Clarimol-—-AI-Driven-Drug-Discovery-Platform-5-hsla { color: hsla(39, 46, 90, 1); }
+
+/* GLOBAL (base) MOBILE FIRST */
+body {
+    background-color: #F2EBDC;
+}
